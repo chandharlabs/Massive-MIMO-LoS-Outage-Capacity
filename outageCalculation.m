@@ -1,3 +1,5 @@
+% Author: Prabhu Chandhar, Chandhar Research Labs, Chennai, India.
+
 function [op]=outageCalculation(data,threshold,opt)
 
 [yy,xx,n,emsg,eid] = cdfcalc(data);
