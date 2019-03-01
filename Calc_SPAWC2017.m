@@ -1,3 +1,6 @@
+% Author: Prabhu Chandhar, Chandhar Research Labs, Chennai, India.
+
+
 function [y] = Calc_SPAWC2017(M,K,del,lambda)
 
 for lp=1:K
